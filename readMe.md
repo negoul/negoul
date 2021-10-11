@@ -4,8 +4,8 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<p >I am a front-end developer, I'm a Competitive Programmer</p>
+
 <ul>
   <li>👋 Hi, I’m @negoul</li>
   <li>❤️ I love Creating websites and Programming in javaScript.</li>
